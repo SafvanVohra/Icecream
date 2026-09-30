@@ -1,0 +1,245 @@
+/* eslint-disable import/no-anonymous-default-export */
+export default [
+  {
+    id: "p1",
+    name: "Madagascar Vanilla Bean",
+    category: "Classic Creams",
+    tagline: "Pure Bourbon Vanilla & Fresh Cream",
+    desc: "A velvety timeless classic speckled with aromatic organic Madagascar vanilla pods and rich local cream.",
+    img: "service2.jpg",
+    rate: 5,
+    order: "4,820",
+    badge: "Timeless Classic"
+  },
+  {
+    id: "p2",
+    name: "Wild Strawberry Swirl",
+    category: "Classic Creams",
+    tagline: "Farm-Fresh Berries & Sweet Cream",
+    desc: "Sun-ripened strawberry coulis hand-swirled through luscious whole-milk ice cream.",
+    img: "scoop_berry.jpg",
+    rate: 5,
+    order: "3,950",
+    badge: "Bestseller"
+  },
+  {
+    id: "p3",
+    name: "Belgian Dark Truffle",
+    category: "Decadent Chocolate & Fudge",
+    tagline: "70% Single-Origin Cocoa & Fudge Chunks",
+    desc: "Intense, dark chocolate gelato folded with soft handcrafted cocoa ganache chunks.",
+    img: "service3.jpg",
+    rate: 5,
+    order: "5,110",
+    badge: "Chef's Choice"
+  },
+  {
+    id: "p4",
+    name: "Kesar Pista Shahi Kulfi",
+    category: "Royal Indian Infusions",
+    tagline: "Kashmiri Saffron & Iranian Pistachio",
+    desc: "A regal tribute crafted in Anand with fragrant saffron threads, slow-simmered milk, and roasted pistachios.",
+    img: "scoop_pistachio.jpg",
+    rate: 5,
+    order: "6,240",
+    badge: "Anand Special"
+  },
+  {
+    id: "p5",
+    name: "Gir Kesar Mango Tango",
+    category: "Exotic Tropical",
+    tagline: "Authentic Sweet Mango Puree",
+    desc: "Crafted with pure pulp of Gujarat's legendary Gir Kesar mangoes for a golden tropical explosion.",
+    img: "service4.jpg",
+    rate: 5,
+    order: "4,680",
+    badge: "Seasonal Harvest"
+  },
+  {
+    id: "p6",
+    name: "Cool Mint Stracciatella",
+    category: "Classic Creams",
+    tagline: "Natural Garden Mint & Dark Chocolate Flakes",
+    desc: "Crisp natural peppermint essence infused with fine, crunchy dark chocolate ribbons.",
+    img: "service5.jpg",
+    rate: 4,
+    order: "2,740",
+    badge: "Refreshing"
+  },
+  {
+    id: "p7",
+    name: "Raspberry Blossom Ripple",
+    category: "Sorbets & Refreshers",
+    tagline: "Tart Raspberries with Sweet Cream",
+    desc: "Juicy organic raspberries slow-simmered into a tart glaze and folded into silky custard cream.",
+    img: "service6.jpg",
+    rate: 5,
+    order: "3,410",
+    badge: "Customer Favorite"
+  },
+  {
+    id: "p8",
+    name: "Salted Butter Caramel",
+    category: "Classic Creams",
+    tagline: "Slow-Cooked Caramel with Sea Salt Flakes",
+    desc: "Deep golden butterscotch and amber caramel balanced with delicate pinches of flaky sea salt.",
+    img: "service7.jpg",
+    rate: 5,
+    order: "4,190",
+    badge: "Gourmet Pick"
+  },
+  {
+    id: "p9",
+    name: "Roasted Almond & Honey",
+    category: "Royal Indian Infusions",
+    tagline: "Crushed California Almonds & Wildflower Honey",
+    desc: "Golden roasted almond praline folded into smooth cream sweetened with fragrant raw forest honey.",
+    img: "scoop_pistachio.jpg",
+    rate: 5,
+    order: "3,120",
+    badge: "Artisanal Crunch"
+  },
+  {
+    id: "p10",
+    name: "Sicilian Pistachio Dream",
+    category: "Classic Creams",
+    tagline: "Slow-Stone Ground Bronte Pistachios",
+    desc: "Naturally nutty and gently green, made with 100% pure stone-milled Mediterranean pistachios.",
+    img: "scoop_pistachio.jpg",
+    rate: 5,
+    order: "2,890",
+    badge: "Premium Nut"
+  },
+  {
+    id: "p11",
+    name: "Alphonso Passionfruit Sorbet",
+    category: "Sorbets & Refreshers",
+    tagline: "Dairy-Free Tropical Medley",
+    desc: "Bright passionfruit nectar and sun-kissed mango spun into an ultra-smooth, refreshing dairy-free sorbet.",
+    img: "service4.jpg",
+    rate: 5,
+    order: "2,450",
+    badge: "100% Vegan"
+  },
+  {
+    id: "p12",
+    name: "Espresso Mocha Crunch",
+    category: "Decadent Chocolate & Fudge",
+    tagline: "Arabica Cold Brew & Dark Chocolate Chips",
+    desc: "Single-estate roasted coffee beans steeped into creamy custard with chocolate-covered crispies.",
+    img: "service3.jpg",
+    rate: 4,
+    order: "3,670",
+    badge: "Morning Roast"
+  },
+  {
+    id: "p13",
+    name: "Royal Rajbhog Royale",
+    category: "Royal Indian Infusions",
+    tagline: "Cardamom, Dry Fruits & Rose Water",
+    desc: "An opulent festival of cashews, almonds, and dried figs perfumed with fresh green cardamom.",
+    img: "scoop_pistachio.jpg",
+    rate: 5,
+    order: "5,300",
+    badge: "Festive Special"
+  },
+  {
+    id: "p14",
+    name: "Blueberry Lavender Whisper",
+    category: "Exotic Tropical",
+    tagline: "French Culinary Lavender & Mountain Berries",
+    desc: "Subtle floral lavender notes blended with mountain-grown wild blueberries for an ethereal spoonful.",
+    img: "scoop_berry.jpg",
+    rate: 5,
+    order: "2,980",
+    badge: "Signature Blend"
+  },
+  {
+    id: "p15",
+    name: "Cookies & Silky Cream",
+    category: "Classic Creams",
+    tagline: "Crushed Black Cocoa Wafers & Sweet Milk",
+    desc: "Generous chunks of crisp chocolate wafer cookies steeped into sweet vanilla milk ice cream.",
+    img: "service2.jpg",
+    rate: 5,
+    order: "4,430",
+    badge: "All-Time Favorite"
+  },
+  {
+    id: "p16",
+    name: "Hazelnut Gianduja Velvet",
+    category: "Decadent Chocolate & Fudge",
+    tagline: "Piedmont Hazelnuts & Milk Chocolate",
+    desc: "Smooth Italian hazelnut praline ribbons infused into delicate milk chocolate cream.",
+    img: "service3.jpg",
+    rate: 5,
+    order: "3,810",
+    badge: "Italian Masterpiece"
+  },
+  {
+    id: "p17",
+    name: "Creamy Tender Coconut",
+    category: "Exotic Tropical",
+    tagline: "Real Malai & Coconut Water",
+    desc: "Made with freshly scraped tender coconut meat (malai) for a light, melt-in-mouth creamy texture.",
+    img: "service1.jpg",
+    rate: 5,
+    order: "4,150",
+    badge: "Natural Wonder"
+  },
+  {
+    id: "p18",
+    name: "Zesty Sicilian Lemon Sorbet",
+    category: "Sorbets & Refreshers",
+    tagline: "Fresh Cold-Pressed Lemon Juice & Zest",
+    desc: "A palate-cleansing, sparkling sorbet made with sun-drenched lemons and gentle cane sugar.",
+    img: "service5.jpg",
+    rate: 4,
+    order: "1,980",
+    badge: "Pure & Crisp"
+  },
+  {
+    id: "p19",
+    name: "Rose Petal Gulkand Delight",
+    category: "Royal Indian Infusions",
+    tagline: "Damask Rose Compote & Sweet Cream",
+    desc: "Traditional sun-cured Damask rose petals (gulkand) blended with rich cream for an authentic floral treat.",
+    img: "scoop_berry.jpg",
+    rate: 5,
+    order: "3,750",
+    badge: "Heritage Flavor"
+  },
+  {
+    id: "p20",
+    name: "Black Forest Brownie Gateau",
+    category: "Decadent Chocolate & Fudge",
+    tagline: "Fudgy Brownie Bites & Morello Cherry Swirl",
+    desc: "Dark chocolate ice cream loaded with soft bakery brownie chunks and sweet-sour Morello cherries.",
+    img: "service3.jpg",
+    rate: 5,
+    order: "4,620",
+    badge: "Decadence"
+  },
+  {
+    id: "p21",
+    name: "Fig & Walnut Amber Melange",
+    category: "Royal Indian Infusions",
+    tagline: "Turkish Anjeer & Roasted Walnuts",
+    desc: "Sun-dried Turkish figs pureed and paired with buttery toasted walnut crunch in whole milk ice cream.",
+    img: "service7.jpg",
+    rate: 5,
+    order: "2,840",
+    badge: "Rich & Wholesome"
+  },
+  {
+    id: "p22",
+    name: "Guava Chilli Sunset Sorbet",
+    category: "Sorbets & Refreshers",
+    tagline: "Pink Guava Puree & Mild Spiced Salt",
+    desc: "Velvety ripe pink guava sorbet with a playful dusting of Kashmiri red chilli and Himalayan pink salt.",
+    img: "service4.jpg",
+    rate: 5,
+    order: "3,530",
+    badge: "Unique Twist"
+  }
+];
